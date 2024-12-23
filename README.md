@@ -1,6 +1,8 @@
 # Neovim Configuration
 My personal Neovim setup, optimized for speed and productivity. It includes various plugins for enhanced development experience, LSP support, file management, and customization. The setup leverages `lazy.nvim` for efficient plugin management and includes my preferred keymaps, theme, and various settings for a smooth editing workflow.
 
+![Neovim Setup Screenshot](/nvim.png)
+
 ## Features
 - **Plugin Management**: Using `lazy.nvim` for fast and reliable plugin management.
 - **LSP Support**: Full support for language servers including Python, JavaScript, TypeScript, C, and Java.
