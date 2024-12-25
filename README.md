@@ -37,23 +37,16 @@ My personal Neovim setup, optimized for speed and productivity. It includes vari
    ```
 
    This will automatically install all the plugins defined in the `lazy.nvim` setup.
-
-4. **Install LSP Servers**:
-
-   The configuration automatically installs and configures LSP servers using `mason.nvim`. Ensure you have the necessary language servers installed.
-
 ## Configuration Details
 
 ### Plugin List
 - **`lazy.nvim`**: Plugin manager used for efficient plugin loading.
-- **`lazydev.nvim`**: Plugin for enhancing development experience.
 - **`mini.nvim`**: Various small utilities for Neovim.
 - **`nvim-lspconfig`**: LSP configuration for various programming languages.
 - **`nvim-treesitter`**: Syntax highlighting for various programming languages.
 - **`nvim-web-devicons`**: File icons.
 - **`oil.nvim`**: File explorer with modern features.
 - **`plenary.nvim`**: Utility functions for Neovim plugins.
-- **`telescope-fzf-native.nvim`**: Faster searching in `telescope`.
 - **`telescope.nvim`**: Fuzzy finder and search interface.
 - **`tokyonight.nvim`**: Beautiful Neovim theme.
 - **`vim-wakatime`**: Wakatime integration for tracking time spent on coding.
